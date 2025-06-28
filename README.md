@@ -1,5 +1,5 @@
-![Uploading image_for_AI_agent_QA_bot.png…]()
 
+![image_for_AI_agent_QA_bot](https://github.com/user-attachments/assets/29cc082b-3fdc-4f51-b5a4-8562141844e7)
 
 This project comprises two AI-powered chatbots built with Streamlit and FastAPI, leveraging the Groq API and using LLaMA-3.3-70B model
 
